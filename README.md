@@ -34,7 +34,7 @@ Pastikan semua file Python:
 
 ![CI](https://github.com/azazasfaliyasa/devops-ci-demo/actions/workflows/python-ci.yml/badge.svg)
 
-> Ganti `USERNAME` dengan username GitHub kamu.
+> Ganti `azazasfaliyasa` dengan username GitHub kamu.
 
 ## 📂 Struktur Folder
 
